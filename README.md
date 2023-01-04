@@ -10,7 +10,7 @@ UI/UX Designer & Front-End 🚀 🚀
 
 
 
-Graphic designer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
+🎓 Graphic designer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
 
 
 
@@ -51,11 +51,8 @@ UI/UX Design Book 2023; 👽 GSAP Parallax Theme;
 
 sincerely greets you.
 
- Gennaro Scarano
-
- Graphic  UI/UX  Designer & Front-end Developer 
-
- www.andapues.com/
+👨‍💻 Gennaro Scarano
+🔜 Graphic  UI/UX  Designer & Front-end Developer.
 
 <!---
 GennaroScarano/GennaroScarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
