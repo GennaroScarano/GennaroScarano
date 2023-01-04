@@ -4,12 +4,14 @@
 - 💞️ I’m looking to collaborate as a resource for cutting edge IT technology companies.
 - 📫 How to reach me you can see more about me here: https://www.andapues.com/
 
-Web Graphic Designer 🚀
+UI/UX Designer & Front-End 🚀 🚀
 
-🌞 Search for opportunities 👀
+🌞 Hi, searching for opportunities 📡
+
 
 
 Graphic designer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
+
 
 
 🎨 Skill:
@@ -21,6 +23,7 @@ Graphic designer; Mastery of design theory (Gestalt, composition, visual percept
 🔹 God level management of Photoshop and Illustrator.
 
 🔹 I'm not limited to them, though: Sketch, Gimp, Inkscape or Figma.
+
 
 
 🕹 Functions:
@@ -39,9 +42,11 @@ Graphic designer; Mastery of design theory (Gestalt, composition, visual percept
 
 🔹 Posters, Ads or Banners.
 
-I attach my books 2023; 👽 Parallax Theme.
 
-🌐 www.andapues.com/
+UI/UX Design Book 2023; 👽 GSAP Parallax Theme;
+
+🛸 www.andapues.com/
+
 
 
 sincerely greets you.
