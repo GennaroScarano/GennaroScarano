@@ -4,13 +4,19 @@
 - 💞️ I’m looking to collaborate as a resource for cutting edge IT technology companies.
 - 📫 How to reach me you can see more about me here: https://www.andapues.com/
 
-UI/UX Designer & Front-End 🚀 🚀
+
+
+UI/UX Designer & Front-End 🚀
+
 
 🌞 Hi, searching for opportunities 📡
 
 
 
+
 🎓 Graphic designer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
+
+
 
 
 
@@ -23,6 +29,8 @@ UI/UX Designer & Front-End 🚀 🚀
 🔹 God level management of Photoshop and Illustrator.
 
 🔹 I'm not limited to them, though: Sketch, Gimp, Inkscape or Figma.
+
+
 
 
 
@@ -43,6 +51,8 @@ UI/UX Designer & Front-End 🚀 🚀
 🔹 Posters, Ads or Banners.
 
 
+
+
 UI/UX Design Book 2023; 👽 GSAP Parallax Theme;
 
 🛸 www.andapues.com/
@@ -51,7 +61,9 @@ UI/UX Design Book 2023; 👽 GSAP Parallax Theme;
 
 sincerely greets you.
 
+
 👨‍💻 Gennaro Scarano
+
 🔜 Graphic  UI/UX  Designer & Front-end Developer.
 
 <!---
