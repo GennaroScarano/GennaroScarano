@@ -9,34 +9,35 @@ Web Graphic Designer 🚀
 🌞 Search for opportunities 👀
 
 
-
 Graphic designer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
-
 
 
 🎨 Skill:
 
-🔹Mastery of Visual Studio Code (HTML5, CSS3, JS).
+🔹 Mastery of Visual Studio Code (HTML5, CSS3, JS).
 
-🔹Mac, Windows & Ubuntu Operating Systems. 
+🔹 Mac, Windows & Ubuntu Operating Systems. 
 
-🔹God level management of Photoshop and Illustrator.
+🔹 God level management of Photoshop and Illustrator.
 
+🔹 I'm not limited to them, though: Sketch, Gimp, Inkscape or Figma.
 
 
 🕹 Functions:
 
-🔹Mockup design wireframes for apps, websites, & UIs fast and optimal syntax.
+🔹 Mockup design wireframes for apps, websites, & UIs fast and optimal semantics.
 
-🔹Pixel perfect design mockup.
+🔹 Pixel perfect design mockup.
 
-🔹Design of infographics and thumbnails for social networks. 
+🔹 SVG animate, in this case with GSAP 3.
 
-🔹Promotional graphics (Marketing Campaigns / Landing Page Solutions).
+🔹 Design of infographics and thumbnails for social networks. 
 
-🔹Social Media Graphics.
+🔹 Promotional graphics (Marketing Campaigns / Landing Page Solutions).
 
-🔹Posters, Ads or Banners.
+🔹 Social Media Graphics.
+
+🔹 Posters, Ads or Banners.
 
 I attach my books 2023; 👽 Parallax Theme.
 
