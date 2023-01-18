@@ -1,72 +1,41 @@
-- 👋 Hi, I’m @Gennaro Scarano (Salomón).
-- 👀 I’m interested in Front End Developer &  Web Graphic Designer 🚀 · Layout Designer · Graphic Design Artist.
-- 🌱 I’m currently learning MySQL.
-- 💞️ I’m looking to collaborate as a resource for cutting edge IT technology companies.
-- 📫 How to reach me you can see more about me here: https://www.andapues.com/
+Gennaro Scarano Perez 💎 UI Developer ❤️ UI Design 👩‍🎨 Art & Creativity ✩°｡⋆⸜ 🎧
 
+🌞 In search for opportunities 📡
 
-
-UI/UX Designer & Front-End 🚀
-
-
-🌞 Hi, searching for opportunities 📡
-
-
-
-
-🎓 Graphic designer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
-
-
-
-
+Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specialist in UI Design & UI Developer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
 
 🎨 Skill:
-
+🔹 UI Design, art & creativity for system software, designing appearance of product interface.
+🔹 UI Developer, translate creative software design concepts and ideas into reality.
 🔹 Mastery of Visual Studio Code (HTML5, CSS3, JS).
-
-🔹 Mac, Windows & Ubuntu Operating Systems. 
-
+🔹 Mac, Windows & Ubuntu Operating Systems.
 🔹 God level management of Photoshop and Illustrator.
-
-🔹 I'm not limited to them, though: Sketch, Gimp, Inkscape or Figma.
-
-
-
-
+🔹 I'm not limited ♡ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ tailwind.css, bootstrap.css, materialize.css, bulma.css etc.
 
 🕹 Functions:
-
 🔹 Mockup design wireframes for apps, websites, & UIs fast and optimal semantics.
-
 🔹 Pixel perfect design mockup.
-
 🔹 SVG animate, in this case with GSAP 3.
-
-🔹 Design of infographics and thumbnails for social networks. 
-
+🔹 Design of infographics and thumbnails for social networks.
 🔹 Promotional graphics (Marketing Campaigns / Landing Page Solutions).
-
 🔹 Social Media Graphics.
-
 🔹 Posters, Ads or Banners.
 
+UI Developer 🚀 Book 2023; 👽GSAP Parallax Theme 🌐 www.andapues.com/
+
+CONST = ANDAPUES.COM ◉ [ 'animation','canvas','gsap','tailwind','js','macintosh' ]; 🚀
+
+#design #marketing #ux #ui #tailwind #bootstrap #uxdesign #css3 #html5 #tailwind #tailwindcss #graphicdesigner #typography #developer #designer #management #opportunities #socialmedia #javascript #frameworks #frontend #UIDeveloper
 
 
+🌎 ENLACES
 
-UI/UX Design Book 2023; 👽 GSAP Parallax Theme;
+👉 github.com/GennaroScarano
 
-🛸 www.andapues.com/
+👉 linkedin.com/in/gennaro-scarano-perez
 
+👉 pinterest.es/GennaroScaranoP
 
+👉 dribbble.com/salomonico
 
-sincerely greets you.
-
-
-👨‍💻 Gennaro Scarano
-
-🔜 Graphic  UI/UX  Designer & Front-end Developer.
-
-<!---
-GennaroScarano/GennaroScarano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👉 twitter.com/GennaroSalomon
