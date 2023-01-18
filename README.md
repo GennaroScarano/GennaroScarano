@@ -6,20 +6,33 @@ Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specia
 
 🎨 Skill:
 🔹 UI Design, art & creativity for system software, designing appearance of product interface.
+
 🔹 UI Developer, translate creative software design concepts and ideas into reality.
+
 🔹 Mastery of Visual Studio Code (HTML5, CSS3, JS).
+
 🔹 Mac, Windows & Ubuntu Operating Systems.
+
 🔹 God level management of Photoshop and Illustrator.
+
 🔹 I'm not limited ♡ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ tailwind.css, bootstrap.css, materialize.css, bulma.css etc.
+
 
 🕹 Functions:
 🔹 Mockup design wireframes for apps, websites, & UIs fast and optimal semantics.
+
 🔹 Pixel perfect design mockup.
+
 🔹 SVG animate, in this case with GSAP 3.
+
 🔹 Design of infographics and thumbnails for social networks.
+
 🔹 Promotional graphics (Marketing Campaigns / Landing Page Solutions).
+
 🔹 Social Media Graphics.
+
 🔹 Posters, Ads or Banners.
+
 
 UI Developer 🚀 Book 2023; 👽GSAP Parallax Theme 🌐 www.andapues.com/
 
