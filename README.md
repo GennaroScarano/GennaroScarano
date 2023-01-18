@@ -5,6 +5,7 @@ Gennaro Scarano Perez 💎 UI Developer ❤️ UI Design 👩‍🎨 Art & Creat
 Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specialist in UI Design & UI Developer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
 
 🎨 Skill:
+
 🔹 UI Design, art & creativity for system software, designing appearance of product interface.
 
 🔹 UI Developer, translate creative software design concepts and ideas into reality.
@@ -19,6 +20,7 @@ Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specia
 
 
 🕹 Functions:
+
 🔹 Mockup design wireframes for apps, websites, & UIs fast and optimal semantics.
 
 🔹 Pixel perfect design mockup.
