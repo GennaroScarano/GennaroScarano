@@ -1,4 +1,4 @@
-Antonio Genaro Scarano Perez 💎 UI Developer ❤️ UI Design 👩‍🎨 Art & Creativity ✩°｡⋆⸜ 🎧
+👽 Antonio Genaro Scarano Perez 💎 UI Developer ❤️ UI Design 👩‍🎨 Art & Creativity ✩°｡⋆⸜ 🎧
 
 🌞 In search for opportunities 📡
 
@@ -14,7 +14,7 @@ Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specia
 
 🔹 Mastery of Visual Studio Code (HTML5, CSS3, JS).
 
-🔹 Mac, Windows & Ubuntu Operating Systems.
+🔹 Mac 🍏 Macintosh 💚, Windows & Ubuntu Operating Systems.
 
 🔹 God level management of Photoshop and Illustrator.
 
@@ -38,7 +38,7 @@ Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specia
 🔹 Posters, Ads or Banners.
 
 
-🎲 UI Developer 🚀 Portfolio 2025; 👽GSAP Parallax Theme 🌐 [www.antonio-scarano.com]
+🎲 UI Developer 🚀 Portfolio 2025; 👽 GSAP Parallax Theme 🌐 [www.antonio-scarano.com]
 
 CONST = antonio-scarano.com [ 'animation','canvas','gsap','tailwind','js','macintosh' ]; 🚀
 
