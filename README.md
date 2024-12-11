@@ -10,6 +10,8 @@ Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specia
 
 🔹 UI Developer, translate creative software design concepts and ideas into reality.
 
+🔹 Designer & Developer of the Figma or Sketch prototype trustworthy templates.
+
 🔹 Mastery of Visual Studio Code (HTML5, CSS3, JS).
 
 🔹 Mac, Windows & Ubuntu Operating Systems.
@@ -36,14 +38,16 @@ Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specia
 🔹 Posters, Ads or Banners.
 
 
-UI Developer 🚀 Book 2023; 👽GSAP Parallax Theme 🌐 www.andapues.com/
+UI Developer 🚀 Portfolio 2025; 👽GSAP Parallax Theme 🌐 [www.antonio-scarano.com]
 
-CONST = ANDAPUES.COM ◉ [ 'animation','canvas','gsap','tailwind','js','macintosh' ]; 🚀
+CONST = antonio-scarano.com [ 'animation','canvas','gsap','tailwind','js','macintosh' ]; 🚀
 
 #design #marketing #ux #ui #tailwind #bootstrap #uxdesign #css3 #html5 #tailwind #tailwindcss #graphicdesigner #typography #developer #designer #management #opportunities #socialmedia #javascript #frameworks #frontend #UIDeveloper
 
 
 🌎 ENLACES
+
+👉 http://see.unaux.com
 
 👉 github.com/GennaroScarano
 
