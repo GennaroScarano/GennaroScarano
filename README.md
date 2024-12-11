@@ -49,12 +49,12 @@ CONST = antonio-scarano.com [ 'animation','canvas','gsap','tailwind','js','macin
 
 👉 http://see.unaux.com
 
-👉 github.com/GennaroScarano
+👉 https://github.com/GennaroScarano
 
-👉 linkedin.com/in/gennaro-scarano-perez
+👉 https://www.linkedin.com/in/gennaro-scarano-perez
 
-👉 pinterest.es/GennaroScaranoP
+👉 https://es.pinterest.com/GennaroScaranoP
 
-👉 dribbble.com/salomonico
+👉 https://dribbble.com/salomonico
 
-👉 twitter.com/GennaroSalomon
+👉 https://x.com/GennaroSalomon
