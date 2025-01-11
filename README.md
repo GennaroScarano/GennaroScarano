@@ -1,8 +1,10 @@
-👽 Antonio Genaro Scarano Perez 💎 UI Developer ❤️ UI Design 👩‍🎨 Art & Creativity ✩°｡⋆⸜ 🎧
+👽 Antonio Genaro Scarano Perez 💎 UX/UI Product Designer & Full Stack Developer; Yes I am UX/UI a geek 👩‍🎨 Art & Creativity ✩°｡⋆⸜ 🎧
 
-🌞 In search for opportunities 📡
+🌞 Integrating current usability principles and the incorporation of artificial intelligence AI 📡
 
-Hi, 🤚🏼 my name is Gennaro, I graduated as a graphic #designer, I am specialist in UI Design & UI Developer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, etc).
+Hi, 🤚🏼 my name is Antonio Genaro, I graduated as a graphic #designer, I am specialist in UI Design & UI Developer; Mastery of design theory (Gestalt, composition, visual perception, contrast, color management, typography, colors).
+
+I specialize in creating intuitive and dynamic interfaces, applying user-centered design principles where aesthetics not only serve visual criteria but also functionality and accessibility. By integrating AI into the process, I can generate more adaptive and predictive solutions, continually improving the experience with each interaction and ensuring greater efficiency in problem-solving.
 
 🎨 Skill:
 
@@ -46,6 +48,8 @@ CONST = antonio-scarano.com [ 'animation','canvas','gsap','tailwind','js','macin
 
 
 🌎 ENLACES
+
+👉 www.antonio-scarano.com
 
 👉 http://see.unaux.com
 
